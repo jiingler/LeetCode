@@ -19,3 +19,5 @@
 
 - Easy - [2629. Function Composition
   ](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202629.%20Function%20Composition/Function_Composition.ts)
+- Easy - [2703. Return Length of Arguments Passed
+  ](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202703.%20Return%20Length%20of%20Arguments%20Passed/Return_Length_of_Arguments_Passed.ts)
