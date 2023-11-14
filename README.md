@@ -14,3 +14,8 @@
 - Easy - [2635. Apply Transform Over Each Element in Array](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array/Apply_Transform_Over_Each_Element_in_Array.ts)
 - Easy - [2634. Filter Elements from Array](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202634.%20Filter%20Elements%20from%20Array/Filter_Elements_from_Array.ts)
 - Easy - [2626. Array Reduce Transformation](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202626.%20Array%20Reduce%20Transformation/Array_Reduce_Transformation.ts)
+
+### Function Transformations
+
+- Easy - [2629. Function Composition
+  ](https://github.com/jiingler/LeetCode/blob/master/30%20Days%20of%20JavaScript/Easy%20-%202629.%20Function%20Composition/Function_Composition.ts)
